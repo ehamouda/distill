@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Data Analytics Workshop"
+title: "Upcoming Data Analytics Workshop 2"
 description: |
   DA-FANH team will be hosting a Data Analytics Workshop Summer 2022.
 author:
