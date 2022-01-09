@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Hello Essia's World"
 description: |
   A short description of the post.
 author:
@@ -9,6 +9,7 @@ date: 01-09-2022
 output:
   distill::distill_article:
     self_contained: false
+draft: false
 ---
 
 
