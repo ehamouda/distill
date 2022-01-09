@@ -14,6 +14,23 @@
     "contents": "\n\n\n\n",
     "preview": {},
     "last_modified": "2022-01-09T09:13:23-08:00",
-    "input_file": "welcome.knit.md"
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-01-09-hello-world/",
+    "title": "Hello World",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-01-09",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-01-09T09:17:42-08:00",
+    "input_file": "hello-world.knit.md"
   }
 ]

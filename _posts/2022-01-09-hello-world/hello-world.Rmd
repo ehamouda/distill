@@ -9,7 +9,6 @@ date: 01-09-2022
 output:
   distill::distill_article:
     self_contained: false
-draft: true
 ---
 
 
