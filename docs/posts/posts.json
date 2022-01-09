@@ -1,5 +1,39 @@
 [
   {
+    "path": "posts/2022-01-09-hello-world/",
+    "title": "Hello Essia's World",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-01-09",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-01-09T09:21:13-08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-01-09-upcoming-data-analytics-workshop/",
+    "title": "Upcoming Data Analytics Workshop",
+    "description": "DA-FANH team will be hosting a Data Analytics Workshop Summer 2022.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-01-09",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-01-09T09:30:03-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog",
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
@@ -15,22 +49,5 @@
     "preview": {},
     "last_modified": "2022-01-09T09:13:23-08:00",
     "input_file": {}
-  },
-  {
-    "path": "posts/2022-01-09-hello-world/",
-    "title": "Hello Essia's World",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2022-01-09",
-    "categories": [],
-    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
-    "preview": {},
-    "last_modified": "2022-01-09T09:21:12-08:00",
-    "input_file": "hello-world.knit.md"
   }
 ]
